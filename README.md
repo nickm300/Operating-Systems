@@ -1,1 +1,9 @@
 # Operating-Systems
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+What did you do particularly well in developing this documentation?
+What about the process of working through a design document did you find helpful when developing the code?
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+The Gaming Room client was looking for a web-based platform for their multiplayer game Draw It or Lose It. In developing this document, I feel my analysis of different operating systems was well done. I explored the different types of browers that could be used and how the portability of the game could be used to expand to additional platforms in the future. I found all aspects of this document helpful when developing code, in particular the UML document helped outline the classes and their attributes which was helpful when coding methods in classes. I would revise my recommendations by being more thorough with my analysis. The users needs are so important to design because if the user does not like the software or finds it difficult or inconvenient to use, the game will not be successful. In the future I will continue to use the client requirements coupled with the users needs in mind to analyze different possibilites for storage and memory management. These documents and planning the software design are so important to ensure portability and compatibility. 
